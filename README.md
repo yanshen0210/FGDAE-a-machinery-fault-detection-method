@@ -3,7 +3,10 @@
 * Created by Shen Yan, Haidong Shao, Zhishan Min, Jiangji Peng, Baoping Cai, Bin Liu.
 * Journal: Reliability Engineering and System Safety
 
-![FGDAE](https://github.com/yanshen0210/FGDAE-a-machinery-fault-detection-method/blob/main/framework.jpg)
+<div align="center">
+<img src="https://github.com/yanshen0210/FGDAE-a-machinery-fault-detection-method/blob/main/framework.jpg" width="700" />
+</div>
+
 ## Our operating environment
 * Python 3.8
 * pytorch  1.10.1
